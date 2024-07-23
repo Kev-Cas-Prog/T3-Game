@@ -1,3 +1,5 @@
+To Run Game> Go to Release Folder and run "Tethrees.exe" or Tethrees (application)
+
 Player Controls:
 
 A-Moves the block right 1 unit
